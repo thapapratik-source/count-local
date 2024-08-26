@@ -1,0 +1,3 @@
+locals {
+  project = "Prameshwar-Thapa"
+}
